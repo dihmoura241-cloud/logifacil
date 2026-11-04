@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "label": "Depósito Central",
+        "street": "Avenida Brasil",
+        "number": "100",
+        "city": "Altônia",
+        "state": "PR",
+        "cep": "87550-000"
+    },
+    {
+        "id": 2,
+        "label": "Cliente \/ Destino",
+        "street": "Rua Paraná",
+        "number": "250",
+        "city": "Umuarama",
+        "state": "PR",
+        "cep": "87500-000"
+    }
+]

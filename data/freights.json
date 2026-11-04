@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "date": "2026-11-03",
+        "origin": 1,
+        "destination": 2,
+        "carrier": 1,
+        "products": [
+            1
+        ],
+        "price": 150,
+        "status": "Pendente"
+    }
+]
